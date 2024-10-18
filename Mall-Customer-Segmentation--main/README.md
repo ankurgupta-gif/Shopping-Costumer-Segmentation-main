@@ -53,8 +53,3 @@ You can download the dataset from [here](https://www.kaggle.com/vjchoudhary7/cus
   - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `sklearn`
 - **Jupyter Notebook**: For code implementation and data visualization.
 
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/shopping-customer-segmentation.git
-   cd shopping-customer-segmentation
